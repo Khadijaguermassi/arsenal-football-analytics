@@ -1,6 +1,6 @@
 # Python environment
 football_env/
-
+.ipynb_checkpoints/
 # Jupyter
 .ipynb_checkpoints/
 
